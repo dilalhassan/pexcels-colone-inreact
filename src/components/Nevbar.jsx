@@ -59,7 +59,7 @@ const Nevbar = ({ setSearch }) => {
             navigate("/");
           }}
         >
-          Aimals
+          Animals
         </div>
         <div
           className="button btn btn-outline-dark text-light mx-3"
